@@ -1,7 +1,7 @@
 <!--
 **m-Adore-C/m-Adore-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hi, I'm Mugisha Adore Christina 👋
+## Hi, I'm Mugisha Adore Christian 👋
 
 I'm a software developer who loves turning ideas into working products — from **pollution‑tracking platforms (E‑Moto)** to playful apps like **Tenzies**, **Quizzical**, and **ChefSanji** (an AI recipe generator). My portfolio also includes a **course registration system** and other solo projects that sharpened my skills.
 
