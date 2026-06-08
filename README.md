@@ -8,12 +8,22 @@ I'm a software developer who loves turning ideas into working products — from 
 🔭 I’m currently working on:
 - My porfolio
 - Frelance website maintenance
+## 🛠️ Tech Stack
 
-🌱 Currently learning:
-- Node
-- Express
-- Next
-- and AI engineering(via Scrimba)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+🌱still learning:
+-Node - Express - Next and AI engineering(via Scrimba)
 
 💻 Interests in action:
 - Contributing to **open source projects**
@@ -28,5 +38,9 @@ I'm a software developer who loves turning ideas into working products — from 
 🎮 Personal touch:
 When I’m not coding, you’ll find me enjoying **food, movies, anime, and video games** — all of which inspire my creativity.
 
-📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/mugisha-adore-christian/
+📫 Connect with me:
+<p>
+  <a href=" https://www.linkedin.com/in/mugisha-adore-christian/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
