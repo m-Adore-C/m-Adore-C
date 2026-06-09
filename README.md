@@ -17,9 +17,9 @@ I'm a software developer who loves turning ideas into working products — from 
 ![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 🌱still learning:
